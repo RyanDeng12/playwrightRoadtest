@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+
+
+      {
+        "name": "Python: Debug with Arguments",
+        "type": "debugpy",
+        "request": "launch",
+        "program": "/Users/ryandeng/Library/Mobile Documents/com~apple~CloudDocs/Documents/Else/playwrightIcbcRoadtest/playwrightRoadtest_dev.py",
+        "console": "integratedTerminal",
+        "args": [
+          "--lastname", "Jia",
+          "--license_no", "09617732",
+          "--keyword", "Liu",
+          "--start_date", "2025-05-22",
+          "--end_date", "2025-05-29",
+          "--start_time", "1:00 PM",
+          "--end_time", "6:30 PM",
+          "--location", "Burnaby claim centre (Wayburne Drive)",
+          "--cooling_factor", "0.5"
+        ]
+      }
+    ]
+  }
